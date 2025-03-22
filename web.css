@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.card {
+    background-image: url("https://img.freepik.com/free-photo/top-view-exotic-fresh-fruits-with-copy-space_23-2148473609.jpg?t=st=1741775112~exp=1741778712~hmac=7f4670fa0efb42cad44e328337aef5f17f49a22d7af10063d55daa220acd64e8&w=2000");
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    width: 150vw;
+
+}
+
+.h-center {
+    text-align: center;
+}
+
+.main-heading {
+    color: darkslateblue;
+}
+
+.font {
+    font-style: normal;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+.style {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.ul {
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.details {
+    background-color: #f6c56e;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: left;
+    height: 50vh;
+}
+.photo{
+    height: 30vh;
+    width: 40vw;
+}
